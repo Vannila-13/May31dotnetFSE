@@ -1,0 +1,7 @@
+Need to Download
+
+Visual studio 2019
+
+Sql Server express
+
+Create account git
