@@ -1,0 +1,13 @@
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.exe
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.deps.json
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.runtimeconfig.json
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.runtimeconfig.dev.json
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.dll
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\bin\Debug\netcoreapp3.1\FirstVSApp.pdb
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.csprojAssemblyReference.cache
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.AssemblyInfoInputs.cache
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.AssemblyInfo.cs
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.dll
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.pdb
+C:\Users\user\Vannila\donettraining\Day1\FirstVSApp\obj\Debug\netcoreapp3.1\FirstVSApp.genruntimeconfig.cache

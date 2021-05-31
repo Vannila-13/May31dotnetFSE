@@ -1,0 +1,12 @@
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.exe
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.deps.json
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.runtimeconfig.json
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.runtimeconfig.dev.json
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.dll
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\bin\Debug\netcoreapp3.1\LeftRotate1.pdb
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.AssemblyInfoInputs.cache
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.AssemblyInfo.cs
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.csproj.CoreCompileInputs.cache
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.dll
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.pdb
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.genruntimeconfig.cache
