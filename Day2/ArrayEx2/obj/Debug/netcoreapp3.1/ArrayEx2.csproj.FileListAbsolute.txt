@@ -1,0 +1,13 @@
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.exe
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.deps.json
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.runtimeconfig.json
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.runtimeconfig.dev.json
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.dll
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\bin\Debug\netcoreapp3.1\ArrayEx2.pdb
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.csprojAssemblyReference.cache
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.AssemblyInfoInputs.cache
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.AssemblyInfo.cs
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.csproj.CoreCompileInputs.cache
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.dll
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.pdb
+C:\Users\user\Vannila\donettraining\Day2\ArrayEx2\obj\Debug\netcoreapp3.1\ArrayEx2.genruntimeconfig.cache
