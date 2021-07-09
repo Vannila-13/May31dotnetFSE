@@ -7,6 +7,7 @@ namespace ArrayEx
         static void Main(string[] args)
         {
             int[] list = { 1, 4, 3, 2 };
+          
             int[] temp = list;
 
 

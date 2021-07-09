@@ -10,3 +10,4 @@ C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\Lef
 C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.dll
 C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.pdb
 C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.genruntimeconfig.cache
+C:\Users\user\Vannila\donettraining\Day1\LeftRotate1\obj\Debug\netcoreapp3.1\LeftRotate1.csprojAssemblyReference.cache
